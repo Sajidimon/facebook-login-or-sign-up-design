@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #F0F2F5;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+
+.fb-login-area {
+    margin-top: 10%;
+}
+
+.fb-login-area h2 {
+    color: #1877F2;
+    font-size: 55px;
+    font-weight: bold;
+
+}
+
+.fb-login-area h5 {
+    font-size: 28px;
+    font-weight: 500;
+    width: 500px;
+    line-height: 32px;
+
+}
+
+.login-form form {
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    width: 390px;
+}
+
+.login-form input {
+    border-radius: 7px;
+    padding: 25px 16px;
+    color: #D5D7DA;
+}
+
+.login-form input[placeholder] {
+    border-radius: 7px;
+    padding: 25px 16px;
+    color: #D5D7DA;
+    opacity: .5;
+    font-size: 17px;
+}
+
+.login-form .btn-primary {
+    display: block;
+    width: 100%;
+    padding: 7px 10px;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.login-form form a {
+    font-size: 15px;
+    margin: 10px 0;
+    display: inline-block;
+}
+
+.login-form .btn-success {
+    background: #36A420;
+    padding: 10px 12px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 7px;
+    margin: 15px 0;
+}
+
+.login-form p {
+    font-size: 14px;
+    color: #1c1e21;
+    margin: 20px 50px;
+    display: inline-block;
+}
+
+.login-form p > a {
+    color: #222;
+    font-weight: bold;
+}
